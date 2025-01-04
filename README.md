@@ -10,7 +10,9 @@ My role was to come up with a prototype of a soil collection mechanism and stora
 
 Initially, I had prototyped a concept of a “carousel wheel” where we would place 16 cuvettes needed for the competition. Cuvettes are small samples that hold soil. We only needed 12 for the competition, but we had four as backup. This was optimally created with enough spacing to fit all the 16 cuvettes with ease. 
 
-Concept of the carousel wheel on SolidWorks
+I had a large carousel plate and had a lot of spacing and unnecessary area in my first iteration. This created a problem that would not fit in the science module box. In order to fit within the specifications. I reduced the carousel plate’s size (diameter) and brought closer together the cuvette holders and holes until they were optimally placed. From the first iteration to the final iteration, I reduced the diamter by about 35%. 
+
+Concept of the final carousel wheel on SolidWorks
 ![Carousel Wheel Concept](https://github.com/KaustubhKanagalekar/Yonder-Dynamics-CAD-/blob/main/Yonder%20Dynamics%20Files/Screenshot%202024-12-20%20at%2016.48.16.png)
 
 Then, I designed the cuvettes that we were going to use.
